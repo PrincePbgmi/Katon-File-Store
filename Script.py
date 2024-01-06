@@ -15,7 +15,7 @@ class script(object):
 
 sɪᴢᴇ ⚙️: {file_size}
 
-Jᴏɪɴ [Request Channel](https://t.me/KatonRaw_Storage)</b>"717172727ksks" 
+Jᴏɪɴ [Request Channel](https://t.me/KatonRaw_Storage)</b>"" 
 
 # Don't Remove Credit Tg - @KatoNxRaw
 # Subscribe YouTube Channel For Amazing Bot - https://youtube.com/@Katon-Raw
@@ -23,11 +23,11 @@ Jᴏɪɴ [Request Channel](https://t.me/KatonRaw_Storage)</b>"717172727ksks"
 
     SHORTENER_API_MESSAGE = """<b>Tᴏ ᴀᴅᴅ ᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ Sʜᴏʀᴛɴᴇʀ Wᴇʙsɪᴛᴇ API, /api (ᴀᴘɪ)
             
-<b>Ex: /api 5af3d35552f5d18017e8d
+<b>Ex: /api 
 
 <b>Cᴜʀʀᴇɴᴛ Wᴇʙsɪᴛᴇ: {base_site}
 
-Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"5af3d35552f5d18017e8d"
+Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"5af3"
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
