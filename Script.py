@@ -11,11 +11,11 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {@KatoNxRaw}
 
 sɪᴢᴇ ⚙️: {file_size}
 
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/KatonRaw_Storage)</b>"5af3d35552f5d18017e8d10272370e03e66ced38" 
+Jᴏɪɴ [Request Channel](https://t.me/KatonRaw_Storage)</b>"717172727ksks" 
 
 # Don't Remove Credit Tg - @KatoNxRaw
 # Subscribe YouTube Channel For Amazing Bot - https://youtube.com/@Katon-Raw
@@ -23,11 +23,11 @@ Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/KatonRaw_Storage)</
 
     SHORTENER_API_MESSAGE = """<b>Tᴏ ᴀᴅᴅ ᴏʀ ᴜᴘᴅᴀᴛᴇ ʏᴏᴜʀ Sʜᴏʀᴛɴᴇʀ Wᴇʙsɪᴛᴇ API, /api (ᴀᴘɪ)
             
-<b>Ex: /api 5af3d35552f5d18017e8d10272370e03e66ced38
+<b>Ex: /api 5af3d35552f5d18017e8d
 
 <b>Cᴜʀʀᴇɴᴛ Wᴇʙsɪᴛᴇ: {base_site}
 
-Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"5af3d35552f5d18017e8d10272370e03e66ced38"
+Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"5af3d35552f5d18017e8d"
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -43,17 +43,17 @@ Cᴜʀʀᴇɴᴛ Sʜᴏʀᴛᴇɴᴇʀ API:</b> `{shortener_api}`"5af3d35552f5d1
 
     ABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
 
-🤖 ᴍʏ ɴᴀᴍᴇ: {}
+🤖 ᴍʏ ɴᴀᴍᴇ: {File Sharing Bot For @KatoNxRaw}
 
 📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/PAPI_CLIPS>Prince P12</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/@KatoNxRaw>Prince P12</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/+xLEytd5u0DBjMmY1>Katon 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+👥 Request Group: <a href=https://t.me/KatonRaw_Storage>Katon 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+xLEytd5u0DBjMmY1>Katon Raw</a></b>
+📢 Join This Channel: <a href=https://t.me/+xLEytd5u0DBjMmY1>Katon Raw</a></b>
 """
 
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
